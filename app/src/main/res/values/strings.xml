@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">MegaPhone</string>
+        <string name="title_section1">Favoritos</string>
+        <string name="title_section2">Conversas</string>
+        <string name="title_section3">Contatos</string>
+        <string name="hello_world">Olá mundo!</string>
+        <string name="action_settings">Configurações</string>
+</resources>
